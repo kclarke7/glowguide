@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+opencv-python
+scikit-learn
+numpy
+pydantic
+python-dotenv   # for environment variables
+requests        # for making HTTP calls (e.g., to AI/ML services)
+
